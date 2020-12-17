@@ -87,3 +87,20 @@ ul li {
 	background-size: cover;
 	background-position: center center;
 }
+.portfolio-body {
+	max-width: 1920px;
+	width: 100%;
+}
+.skills h2 {
+	margin-left: 20%;
+}
+.skills ul {
+	display: flex;
+	justify-content: center;
+}
+.skills ul li {
+	margin: 0 3px;
+}
+.skills ul li img {
+	width: 100%;
+}
