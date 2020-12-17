@@ -79,7 +79,7 @@ h1,h2,h3,h4,h5,p,a {
 	color: #fff;
 }
 .bg-image {
-	background-image: url(Images/intro-bg.jpg);
+	background-image: url(assets/Images/intro-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
